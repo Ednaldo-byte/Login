@@ -6,7 +6,7 @@
       <a href="#-licença">📃 Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-  <p><img src="home.png" style="width: 500px"></p>
+  <p><img src="home.png"></p>
   
   ## 🖥 Projeto
   Projeto desenvolvido para fins de prática e desenvolvimento dos conhecimentos de HTML e CSS
@@ -17,7 +17,7 @@
   - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
   ## 🖇 Executar o Projeto
-  Para executar o projeto <a href="https://ednaldo-byte.github.io/One-Page/">clique aqui</a>
+  Para executar o projeto <a href="https://ednaldo-byte.github.io/Login/">clique aqui</a>
 
 
   ##  📃 Licença
